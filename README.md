@@ -10,6 +10,8 @@ My work uses quantitative, qualitative, computational, and mixed-method approach
 
 - **[Auditing AI Moderation in Ethiopia's Multilingual Online Sphere](https://github.com/Endalk-Chala/ethiopia-ai-moderation-audit)** — Replication data, documentation, code, and verification materials for *From Detection to Counterspeech: Auditing AI Moderation and Fact-Checking Practices in Ethiopia's Multilingual Online Sphere*. [Article DOI](https://doi.org/10.17645/mac.12653)
 
+- **[Platform Oversight in Practice](https://github.com/Endalk-Chala/Oversight-Board-Case-Analysis)** — Data and research materials for a published analysis of 147 Meta Oversight Board decisions, examining language, geography, policy domains, outcomes, and procedural routing. [Article DOI](https://doi.org/10.54501/jots.v3i3.333)
+
 - **[Trust & Safety Employment Corpus — Africa](https://github.com/Endalk-Chala/ts-employment-corpus-africa)** — Research materials examining the organization, localization, and labor infrastructure of Trust & Safety work connected to African multilingual internet environments.
 
 - **[Journalist Safety in Ethiopia](https://github.com/Endalk-Chala/ethiopia-journalist-safety)** — Data and research infrastructure for a long-term study of coercive actions against journalists and media outlets in Ethiopia. [Dataset DOI](https://doi.org/10.7910/DVN/FEPB8O) · [Article DOI](https://doi.org/10.1080/17512786.2026.2637127)
@@ -18,11 +20,9 @@ My work uses quantitative, qualitative, computational, and mixed-method approach
 
 - **[Crowdsourcing Rebellion](https://github.com/Endalk-Chala/Crowdsourcing-Rebellion)** — Data and analysis supporting research on diaspora digital fundraising for Ethiopian rebel groups. [Article DOI](https://doi.org/10.1080/13698249.2026.2719413)
 
-- **[Minnesota Immigration & Nonprofit Communication](https://github.com/Endalk-Chala/mn-immigration-nonprofit-communication)** — Ongoing research on how Twin Cities nonprofits communicate about immigration enforcement across digital platforms; presented at AEJMC 2026.
-
 ### Current & developing research
 
-- **[Meta Oversight Board Case Analysis](https://github.com/Endalk-Chala/Oversight-Board-Case-Analysis)** — Platform governance and oversight through systematic analysis of Meta Oversight Board decisions.
+- **[Minnesota Immigration & Nonprofit Communication](https://github.com/Endalk-Chala/mn-immigration-nonprofit-communication)** — Ongoing research on how Twin Cities nonprofits communicate about immigration enforcement across digital platforms; presented at AEJMC 2026.
 - **[Nonprofit News in the Twin Cities](https://github.com/Endalk-Chala/nonprofit-news-twin-cities)** — Comparative research on MinnPost and Sahan Journal, local publics, civic issues, and nonprofit journalism.
 - **[Target DEI Boycott](https://github.com/Endalk-Chala/target-dei-boycott)** — Developing mixed-method study of digital activism, corporate communication, and community accountability.
 - **[Minnesota Immigration Rhetoric & Fraud Coverage Archive](https://github.com/Endalk-Chala/Minnesota-Immigration-Rhetoric-and-Fraud-Coverage-Archive-Somali-Community-Focus)** — Developing archive and research project on immigration rhetoric, media coverage, and the Somali community in Minnesota.
