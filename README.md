@@ -22,6 +22,8 @@ My work uses quantitative, qualitative, computational, and mixed-method approach
 
 ### Current & developing research
 
+- **[American Multilingual Publics and the Digital State](https://github.com/Endalk-Chala/american-multilingual-publics-digital-state)** — Flagship research program on public benefits, language access, multilingual publics, and AI-mediated communication in the American digital state. The project examines how agencies communicate high-consequence benefit information across languages and digital channels, with particular attention to machine translation, human oversight, information integrity, and communicative administrative burden. The initial deep-language track focuses on Amharic and Afaan Oromo.
+
 - **[When Translation Is Not Access: AI Translation Infrastructure and Communicative Inequality in Under-Resourced Languages](https://github.com/Endalk-Chala/translation-infrastructure-language-access)** — Developing communication study of how global platform companies shape language access through AI translation infrastructure. Using Amharic and Afaan Oromo as an empirical case, the project compares Google Translate and Meta SeamlessM4T across semantic fidelity, pragmatic fidelity, institutional fidelity, and actionability. The repository includes the development corpus, source provenance, system-output workflows, reproducible Meta inference code, reviewer codebook, blinded two-reviewer protocol, adjudication workflow, and planned inter-rater reliability analysis.
 
 - **[Minnesota Immigration & Nonprofit Communication](https://github.com/Endalk-Chala/mn-immigration-nonprofit-communication)** — Ongoing research on how Twin Cities nonprofits communicate about immigration enforcement across digital platforms; presented at AEJMC 2026.
