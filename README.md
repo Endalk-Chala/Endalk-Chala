@@ -22,13 +22,14 @@ My work uses quantitative, qualitative, computational, and mixed-method approach
 
 ### Current & developing research
 
+- **[When Translation Is Not Access: AI Translation Infrastructure and Communicative Inequality in Under-Resourced Languages](https://github.com/Endalk-Chala/translation-infrastructure-language-access)** — Developing communication study of how global platform companies shape language access through AI translation infrastructure. Using Amharic and Afaan Oromo as an empirical case, the project compares Google Translate and Meta SeamlessM4T across semantic fidelity, pragmatic fidelity, institutional fidelity, and actionability. The repository includes the development corpus, source provenance, system-output workflows, reproducible Meta inference code, reviewer codebook, blinded two-reviewer protocol, adjudication workflow, and planned inter-rater reliability analysis.
+
 - **[Minnesota Immigration & Nonprofit Communication](https://github.com/Endalk-Chala/mn-immigration-nonprofit-communication)** — Ongoing research on how Twin Cities nonprofits communicate about immigration enforcement across digital platforms; presented at AEJMC 2026.
 - **[Nonprofit News in the Twin Cities](https://github.com/Endalk-Chala/nonprofit-news-twin-cities)** — Comparative research on MinnPost and Sahan Journal, local publics, civic issues, and nonprofit journalism.
 - **[Target DEI Boycott](https://github.com/Endalk-Chala/target-dei-boycott)** — Developing mixed-method study of digital activism, corporate communication, and community accountability.
 - **[Minnesota Immigration Rhetoric & Fraud Coverage Archive](https://github.com/Endalk-Chala/Minnesota-Immigration-Rhetoric-and-Fraud-Coverage-Archive-Somali-Community-Focus)** — Developing archive and research project on immigration rhetoric, media coverage, and the Somali community in Minnesota.
 - **[Domestic vs. Western Media Framing of the Tigray Conflict](https://github.com/Endalk-Chala/Endalk-Chala-domestic-vs-western-media-tigray)** — Developing comparative project on conflict framing across Ethiopian and Western news media.
 - **Audience production and attention measurement** — Current research on how platforms operationalize and produce audiences through view thresholds, dwell time, and attention metrics. Materials remain private while under submission.
-- **AI translation and language access** — Emerging research agenda examining Google Translate and Meta/Facebook translation for Amharic and Afan Oromo, with attention to semantic accuracy, pragmatics, intercultural communication, and institutional access.
 
 ### Research infrastructure
 
