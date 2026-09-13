@@ -24,7 +24,7 @@ My work uses quantitative, qualitative, computational, and mixed-method approach
 
 - **[American Multilingual Publics and the Digital State](https://github.com/Endalk-Chala/american-multilingual-publics-digital-state)** — Research on public benefits, language access, multilingual publics, and AI-mediated communication in the American digital state, with a focus on machine translation, human oversight, information integrity, and communicative administrative burden. The initial language track focuses on Amharic and Afaan Oromo.
 
-- **[When Translation Is Not Access: AI Translation Infrastructure and Communicative Inequality in Under-Resourced Languages](https://github.com/Endalk-Chala/translation-infrastructure-language-access)** — Developing communication study of how global platform companies shape language access through AI translation infrastructure. Using Amharic and Afaan Oromo as an empirical case, the project compares Google Translate and Meta SeamlessM4T across semantic fidelity, pragmatic fidelity, institutional fidelity, and actionability. The repository includes the development corpus, source provenance, system-output workflows, reproducible Meta inference code, reviewer codebook, blinded two-reviewer protocol, adjudication workflow, and planned inter-rater reliability analysis.
+- **[When Translation Is Not Access: AI Translation Infrastructure and Communicative Inequality in Under-Resourced Languages](https://github.com/Endalk-Chala/translation-infrastructure-language-access)** — Developing communication study of how global platform companies shape language access through AI translation infrastructure. Using Amharic and Afaan Oromo as an empirical case, the project compares Google Translate and Meta SeamlessM4T across semantic fidelity, pragmatic fidelity, institutional fidelity, and actionability. The repository includes the development corpus, source provenance, system-output workflows, reproducible Meta inference code, reviewer codebook, blinded two-reviewer protocol, adjudication workflow, and planned inter-rater reliability analysis. [Hugging Face dataset](https://huggingface.co/datasets/endalkchala/translation-infrastructure-language-access)
 
 - **[Minnesota Immigration & Nonprofit Communication](https://github.com/Endalk-Chala/mn-immigration-nonprofit-communication)** — Ongoing research on how Twin Cities nonprofits communicate about immigration enforcement across digital platforms; presented at AEJMC 2026.
 - **[Nonprofit News in the Twin Cities](https://github.com/Endalk-Chala/nonprofit-news-twin-cities)** — Comparative research on MinnPost and Sahan Journal, local publics, civic issues, and nonprofit journalism.
@@ -40,6 +40,7 @@ My work uses quantitative, qualitative, computational, and mixed-method approach
 | Website | [endalk-chala.github.io](https://endalk-chala.github.io/) |
 | ORCID | [0000-0001-6210-6706](https://orcid.org/0000-0001-6210-6706) |
 | OSF | [osf.io/dy4rs](https://osf.io/dy4rs/) |
+| Hugging Face | [endalkchala](https://huggingface.co/endalkchala) |
 | Google Scholar | [Profile](https://scholar.google.com/citations?hl=en&user=-29oKXYAAAAJ) |
 | LinkedIn | [Endalkachew H. Chala](https://www.linkedin.com/in/endalkachew-h-chala-phd-21a87223/) |
 | Zotero | [endalk_chala](https://www.zotero.org/endalk_chala) |
