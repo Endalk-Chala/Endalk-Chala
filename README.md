@@ -1,6 +1,6 @@
 ## Endalkachew H. Chala
 
-Media and communication scholar studying digital platforms, journalism, and public communication across multilingual, intercultural, and transnational contexts.
+Researcher studying platform governance, information integrity, multilingual AI, migration, and public communication through critical digital and computational methods.
 
 I am a Fellow at the Center for an Informed Public at the University of Washington. My research examines platform governance, AI-assisted content moderation, Trust & Safety, internet shutdowns and digital sovereignty, journalist safety, diaspora and transnational media, immigrant information environments, nonprofit and institutional communication, and emerging questions of AI-mediated translation and language access.
 
@@ -21,6 +21,8 @@ My work uses quantitative, qualitative, computational, and mixed-method approach
 - **[Crowdsourcing Rebellion](https://github.com/Endalk-Chala/Crowdsourcing-Rebellion)** — Data and analysis supporting research on diaspora digital fundraising for Ethiopian rebel groups. [Article DOI](https://doi.org/10.1080/13698249.2026.2719413)
 
 ### Current & developing research
+
+- **Narrative Flows, Policy Response, and Community Information Integrity in Minnesota** — University of Washington Center for an Informed Public fellowship project examining how narratives involving fraud, publicly funded programs, immigration, and immigrant communities circulate across platforms, gain political and institutional attention, and enter multilingual community information spaces. The project also develops a community-facing information-integrity curriculum for educators working with immigrant and multilingual communities. The research repository is currently private while the project is under development.
 
 - **[American Multilingual Publics and the Digital State](https://github.com/Endalk-Chala/american-multilingual-publics-digital-state)** — Research on public benefits, language access, multilingual publics, and AI-mediated communication in the American digital state, with a focus on machine translation, human oversight, information integrity, and communicative administrative burden. The initial language track focuses on Amharic and Afaan Oromo.
 
